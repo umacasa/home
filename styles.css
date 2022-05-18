@@ -12,11 +12,12 @@ font-color: #FFFFFF;
 }
 
 .bamarelo {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'IBM Plex Sans Bold', sans-serif;
   text-transform: uppercase;
   background-color: #FBBC3D;
+  border: none;
   border-radius: 30px;
-  color: #FFFFFF;
+  font-color: #FFFFFF;
   padding: 15px 32px;
   text-align: center;
   display: inline-block;
