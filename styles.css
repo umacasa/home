@@ -2,10 +2,12 @@
 
 #caixalanding {
 height: 80%;
+width: 100%;
 background-color: #49A295;
 }
 
 .faixa {
+  background-color: #49A295;
   position: fixed;
   top: 0px;
   left: 0px;
