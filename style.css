@@ -5,7 +5,7 @@ body {
   background: #49A295;
   position: relative;
   width: 100%;
-  height: auto;
+  height: 100vh;
 }
 
 .top {
